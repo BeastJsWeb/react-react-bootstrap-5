@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a8a0596.css",
+    "main.js": "/static/js/main.f30ca425.js",
+    "static/media/it1.jpg": "/static/media/it1.010db932e982bb12bca0.jpg",
+    "static/media/about3.jpg": "/static/media/about3.d145803831d06d3e3b5a.jpg",
+    "static/media/it2.jpg": "/static/media/it2.8405dd5f11bf19add6f2.jpg",
+    "static/media/about5.jpg": "/static/media/about5.73f4a4dae054280cefcb.jpg",
+    "static/media/about2.jpg": "/static/media/about2.3fde7a79b97e9c1bc399.jpg",
+    "static/media/team3.jpg": "/static/media/team3.5745c80f0a09c1099845.jpg",
+    "static/media/about1.jpg": "/static/media/about1.9880feb0ec03aa6ec29a.jpg",
+    "static/media/it3.jpg": "/static/media/it3.1a4667708d3e24c36bbb.jpg",
+    "static/media/team1.jpg": "/static/media/team1.7e17058aae42a9c88b7b.jpg",
+    "static/media/team2.jpg": "/static/media/team2.38f8c850be528df2a90c.jpg",
+    "static/media/about4.jpg": "/static/media/about4.92dafa074a19611e2d65.jpg",
+    "static/media/blog1.jpg": "/static/media/blog1.841c29c4914c60542e6d.jpg",
+    "static/media/favicon.ico": "/static/media/favicon.4fe75d5f9adb18067b85.ico",
+    "index.html": "/index.html",
+    "main.1a8a0596.css.map": "/static/css/main.1a8a0596.css.map",
+    "main.f30ca425.js.map": "/static/js/main.f30ca425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.f30ca425.js"
+  ]
+}
