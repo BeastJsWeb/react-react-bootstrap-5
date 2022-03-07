@@ -7,3 +7,10 @@ You may serve it with a static server:
 
   npm install -g serve
   serve -s build
+
+  for load local serve delete from .json:
+
+    "homepage": "https://beastjsweb.github.io/react-react-bootstrap-5/build",
+
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
