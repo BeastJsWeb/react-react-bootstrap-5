@@ -15,7 +15,7 @@ export default class Header extends Component {
         <Router>
           <Navbar sticky="top" collapseOnSelect expand='md' bg='dark' variant="dark" >
             <Container>
-              <Navbar.Brand href='/' >
+              <Navbar.Brand as={Link} to="/" >
                 <img
                   src={favicon}
                   height='30'
