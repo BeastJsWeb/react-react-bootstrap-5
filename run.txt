@@ -1,9 +1,0 @@
-cd my-app
-npm start
-
-gh-pages -d build  /   To create a production build, use npm run build.
-
-You may serve it with a static server:
-
-  npm install -g serve
-  serve -s build
